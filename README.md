@@ -6,7 +6,7 @@ A modern, responsive car dealership and automotive showcase template built with 
 
 - **Dynamic Theme Switcher**: 4 accent color swatches (Rust Red, Racing Green, Electric Blue, Graphite Grey) + Light and Dark mode toggle with `localStorage` persistence.
 - **Hero Vehicle Telemetry**: Interactive car selection (Standard, Premium, Exotic) that dynamically updates performance specs (HP, 0-60 mph, Top Speed).
-- **Interactive Showcase Gallery**: Filter vehicles by category (*Sports & Exotic, Luxury Sedans, SUVs & Utility, Classics*) with quick lightbox modal preview.
+- **Interactive Showcase Gallery**: Filter vehicles by category (_Sports & Exotic, Luxury Sedans, SUVs & Utility, Classics_) with quick lightbox modal preview.
 - **Animated Counter**: Scroll-triggered numeric counter animation for key statistics.
 - **Pricing Switcher**: Toggle pricing cards between Monthly and Annual billing options with auto-calculated discounts.
 - **Accordion FAQ**: Interactive smooth expand/collapse FAQ list.
@@ -36,4 +36,4 @@ A modern, responsive car dealership and automotive showcase template built with 
 
 ## Author
 
-Designed and developed by **Ibrahim Qahtan** ([@IBO98X](https://github.com/IBO98X)).
+Designed and developed with love by **Ibrahim Qahtan** ([@IBO98X](https://github.com/IBO98X)).
